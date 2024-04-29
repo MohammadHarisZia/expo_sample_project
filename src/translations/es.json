@@ -1,0 +1,63 @@
+{
+  "branding": {
+    "powered_by": "Desarrollado por"
+  },
+  "clinic": {
+    "appointment_link": "Enlace de Citas",
+    "availability": "Disponibilidad",
+    "fax_no": "Número de fax",
+    "office_phone_no": "Teléfono de la Oficina",
+    "view_in_maps": "Ver en Google Maps"
+  },
+  "hi": "Hola",
+  "login": {
+    "enter_phone_placeholder": "Ingrese el número de teléfono",
+    "enter_phone_string": "Ingrese el código OTP que recibió en su dispositivo",
+    "find_audiologist": "Encontrar Audioprotesista",
+    "license_code_string": "No tengo un código de licencia.",
+    "phone_verification": "Verificación del Teléfono",
+    "verify_phone": "Verificar Teléfono"
+  },
+  "onboarding": {
+    "message": "Bienvenido al sitio de la aplicación obytes"
+  },
+  "otp": {
+    "otp_code_string": "Ingrese el código OTP que recibió en su dispositivo",
+    "otp_confirmation": "Confirmación de OTP"
+  },
+  "settings": {
+    "about": "Acerca de",
+    "app_name": "Nombre de la aplicación",
+    "arabic": "Árabe",
+    "english": "Inglés",
+    "generale": "General",
+    "github": "Github",
+    "language": "Idioma",
+    "links": "Enlaces",
+    "logout": "Cerrar sesión",
+    "more": "Más",
+    "privacy": "Política de privacidad",
+    "rate": "Valorar",
+    "share": "Compartir",
+    "spanish": "Español",
+    "support": "Soporte",
+    "support_us": "Apóyanos",
+    "terms": "Términos de servicio",
+    "theme": {
+      "dark": "Oscuro",
+      "light": "Claro",
+      "system": "Sistema",
+      "title": "Tema"
+    },
+    "title": "Configuración",
+    "version": "Versión",
+    "website": "Sitio web"
+  },
+  "tabs": {
+    "myawards": "Mis premios",
+    "mydoctor": "Mi médico",
+    "mystuff": "Mis cosas",
+    "mytraining": "Mi entrenamiento"
+  },
+  "welcome": "Bienvenido al sitio de la aplicación obytes"
+}

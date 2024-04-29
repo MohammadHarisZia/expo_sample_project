@@ -1,0 +1,63 @@
+{
+  "branding": {
+    "powered_by": "Powered By"
+  },
+  "clinic": {
+    "appointment_link": "Appointment Link",
+    "availability": "Availability",
+    "fax_no": "Fax No",
+    "office_phone_no": "Office Phone No",
+    "view_in_maps": "View in Google Maps"
+  },
+  "hi": "Hi",
+  "login": {
+    "enter_phone_placeholder": "Enter Phone Number",
+    "enter_phone_string": "Enter the OTP Code you received on your device",
+    "find_audiologist": "Find Audiologist",
+    "license_code_string": "I don’t have a license code.",
+    "phone_verification": "Phone Verification",
+    "verify_phone": "Verify Phone"
+  },
+  "onboarding": {
+    "message": "Welcome to obytes app site"
+  },
+  "otp": {
+    "otp_code_string": "Enter the OTP Code you received on your device",
+    "otp_confirmation": "OTP Confirmation"
+  },
+  "settings": {
+    "about": "About",
+    "app_name": "App Name",
+    "arabic": "Arabic",
+    "english": "English",
+    "generale": "General",
+    "github": "Github",
+    "language": "Language",
+    "links": "Links",
+    "logout": "Logout",
+    "more": "More",
+    "privacy": "Privacy Policy",
+    "rate": "Rate",
+    "share": "Share",
+    "spanish": "Spanish",
+    "support": "Support",
+    "support_us": "Support Us",
+    "terms": "Terms of Service",
+    "theme": {
+      "dark": "Dark",
+      "light": "Light",
+      "system": "System",
+      "title": "Theme"
+    },
+    "title": "Settings",
+    "version": "Version",
+    "website": "Website"
+  },
+  "tabs": {
+    "myawards": "My Awards",
+    "mydoctor": "My Doctor",
+    "mystuff": "My Stuff",
+    "mytraining": "My Training"
+  },
+  "welcome": "Welcome to obytes app site"
+}
